@@ -1,0 +1,3 @@
+- Source: https://youtu.be/QUT1VHiLmmI
+- https://github.com/KeithGalli/NumPy
+- https://www.youtube.com/@KeithGalli
